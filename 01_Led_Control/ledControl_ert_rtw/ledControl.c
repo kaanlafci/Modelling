@@ -5,7 +5,7 @@
  *
  * Model version                  : 1.0
  * Simulink Coder version         : 9.6 (R2021b) 14-May-2021
- * C/C++ source code generated on : Sat Feb 24 02:32:27 2024
+ * C/C++ source code generated on : Sat Feb 24 02:41:19 2024
  *
  * Target selection: ert.tlc
  * Embedded hardware selection: Texas Instruments->C2000
@@ -54,7 +54,7 @@ static void rate_monotonic_scheduler(void)
    * counter is reset when it reaches its limit (zero means run).
    */
   (ledControl_M->Timing.TaskCounters.TID[1])++;
-  if ((ledControl_M->Timing.TaskCounters.TID[1]) > 1) {/* Sample time: [0.25s, 0.0s] */
+  if ((ledControl_M->Timing.TaskCounters.TID[1]) > 3) {/* Sample time: [0.5s, 0.0s] */
     ledControl_M->Timing.TaskCounters.TID[1] = 0;
   }
 }
@@ -89,7 +89,7 @@ void ledControl_step0(void)            /* Sample time: [0.125s, 0.0s] */
 }
 
 /* Model step function for TID1 */
-void ledControl_step1(void)            /* Sample time: [0.25s, 0.0s] */
+void ledControl_step1(void)            /* Sample time: [0.5s, 0.0s] */
 {
   /* DiscretePulseGenerator: '<Root>/Pulse Generator' */
   ledControl_B.PulseGenerator = (ledControl_DW.clockTickCounter_d <
@@ -107,9 +107,9 @@ void ledControl_step1(void)            /* Sample time: [0.25s, 0.0s] */
   /* S-Function (c280xgpio_do): '<Root>/Digital Output' */
   {
     if (ledControl_B.PulseGenerator)
-      GpioDataRegs.GPASET.bit.GPIO24 = 1;
+      GpioDataRegs.GPBSET.bit.GPIO34 = 1;
     else
-      GpioDataRegs.GPACLEAR.bit.GPIO24 = 1;
+      GpioDataRegs.GPBCLEAR.bit.GPIO34 = 1;
   }
 }
 
@@ -144,8 +144,8 @@ void ledControl_initialize(void)
 
   /* Start for S-Function (c280xgpio_do): '<Root>/Digital Output' */
   EALLOW;
-  GpioCtrlRegs.GPAMUX2.all &= 0xFFFCFFFF;
-  GpioCtrlRegs.GPADIR.all |= 0x1000000;
+  GpioCtrlRegs.GPBMUX1.all &= 0xFFFFFFCF;
+  GpioCtrlRegs.GPBDIR.all |= 0x4;
   EDIS;
 }
 

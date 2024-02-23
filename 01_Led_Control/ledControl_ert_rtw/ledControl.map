@@ -1,10 +1,10 @@
 ******************************************************************************
              TMS320C2000 Linker PC v20.2.1                     
 ******************************************************************************
->> Linked Sat Feb 24 02:32:33 2024
+>> Linked Sat Feb 24 02:41:24 2024
 
 OUTPUT FILE NAME:   <../ledControl.out>
-ENTRY POINT SYMBOL: "_c_int00"  address: 0000869e
+ENTRY POINT SYMBOL: "_c_int00"  address: 0000869d
 
 
 MEMORY CONFIGURATION
@@ -14,7 +14,7 @@ MEMORY CONFIGURATION
 PAGE 0:
   BEGINRAM              00000000   00000002  00000002  00000000  RWIX
   RAMM0                 00000002   000003fe  00000000  000003fe  RWIX
-  RAMLPRG               00008000   00005000  000009b7  00004649  RWIX
+  RAMLPRG               00008000   00005000  000009b6  0000464a  RWIX
   ZONE7P                00200000   00010000  00000000  00010000  RWIX
   FLASH                 00300000   0003fff6  00000000  0003fff6  RWIX
   BEGINFLASH            0033fff6   00000002  00000000  00000002  RWIX
@@ -338,33 +338,33 @@ FPUmathTables
 *          0    003febdc    000006a0     NOLOAD SECTION
                   003febdc    000006a0     rts2800_fpu32_fast_supplement.lib : FPUmathTables.obj (FPUmathTables)
 
-.text      0    00008043    00000974     
+.text      0    00008043    00000973     
                   00008043    00000316     DSP2833x_DefaultIsr.obj (.text:retain)
                   00008359    000000f6     DSP2833x_SysCtrl.obj (.text)
-                  0000844f    000000cc     ledControl.obj (.text)
-                  0000851b    0000008e     ert_main.obj (.text)
-                  000085a9    0000007b     DSP2833x_CpuTimers.obj (.text)
-                  00008624    0000007a     MW_c28xx_board.obj (.text)
-                  0000869e    00000056     rts2800_fpu32.lib : boot28.asm.obj (.text)
-                  000086f4    0000004f     rts2800_fpu32_fast_supplement.lib : atan2_f32.obj (.text)
-                  00008743    0000004e     c2833xSchedulerTimer0.obj (.text)
-                  00008791    0000004a     rts2800_fpu32_fast_supplement.lib : atan_f32.obj (.text)
-                  000087db    00000044     c2833xSchedulerTimer0.obj (.text:retain)
-                  0000881f    00000034     rts2800_fpu32_fast_supplement.lib : cos_f32.obj (.text)
-                  00008853    00000034                                       : sin_f32.obj (.text)
-                  00008887    00000029     rts2800_fpu32.lib : exit.c.obj (.text)
-                  000088b0    00000028     DSP2833x_PieCtrl.obj (.text)
-                  000088d8    00000026     c2833xBoard_Realtime_Support.obj (.text)
-                  000088fe    00000024     rts2800_fpu32.lib : cpy_tbl.c.obj (.text)
-                  00008922    00000021     rts2800_fpu32_fast_supplement.lib : sqrt_f32.obj (.text)
-                  00008943    00000020     DSP2833x_PieVect.obj (.text)
-                  00008963    0000001d     rts2800_fpu32.lib : memcpy.c.obj (.text)
-                  00008980    00000012                       : args_main.c.obj (.text)
-                  00008992    00000011     MW_c28xGlobalInterrupts.obj (.text)
-                  000089a3    00000009     rts2800_fpu32.lib : _lock.c.obj (.text)
-                  000089ac    00000008     DSP2833x_CodeStartBranch.obj (.text)
-                  000089b4    00000002     rts2800_fpu32.lib : pre_init.c.obj (.text)
-                  000089b6    00000001                       : startup.c.obj (.text)
+                  0000844f    000000cb     ledControl.obj (.text)
+                  0000851a    0000008e     ert_main.obj (.text)
+                  000085a8    0000007b     DSP2833x_CpuTimers.obj (.text)
+                  00008623    0000007a     MW_c28xx_board.obj (.text)
+                  0000869d    00000056     rts2800_fpu32.lib : boot28.asm.obj (.text)
+                  000086f3    0000004f     rts2800_fpu32_fast_supplement.lib : atan2_f32.obj (.text)
+                  00008742    0000004e     c2833xSchedulerTimer0.obj (.text)
+                  00008790    0000004a     rts2800_fpu32_fast_supplement.lib : atan_f32.obj (.text)
+                  000087da    00000044     c2833xSchedulerTimer0.obj (.text:retain)
+                  0000881e    00000034     rts2800_fpu32_fast_supplement.lib : cos_f32.obj (.text)
+                  00008852    00000034                                       : sin_f32.obj (.text)
+                  00008886    00000029     rts2800_fpu32.lib : exit.c.obj (.text)
+                  000088af    00000028     DSP2833x_PieCtrl.obj (.text)
+                  000088d7    00000026     c2833xBoard_Realtime_Support.obj (.text)
+                  000088fd    00000024     rts2800_fpu32.lib : cpy_tbl.c.obj (.text)
+                  00008921    00000021     rts2800_fpu32_fast_supplement.lib : sqrt_f32.obj (.text)
+                  00008942    00000020     DSP2833x_PieVect.obj (.text)
+                  00008962    0000001d     rts2800_fpu32.lib : memcpy.c.obj (.text)
+                  0000897f    00000012                       : args_main.c.obj (.text)
+                  00008991    00000011     MW_c28xGlobalInterrupts.obj (.text)
+                  000089a2    00000009     rts2800_fpu32.lib : _lock.c.obj (.text)
+                  000089ab    00000008     DSP2833x_CodeStartBranch.obj (.text)
+                  000089b3    00000002     rts2800_fpu32.lib : pre_init.c.obj (.text)
+                  000089b5    00000001                       : startup.c.obj (.text)
 
 MODULE SUMMARY
 
@@ -375,7 +375,7 @@ MODULE SUMMARY
        DSP2833x_DefaultIsr.obj            790    0                  0                 
        DSP2833x_PieVect.obj               32     256                0                 
        DSP2833x_SysCtrl.obj               246    0                  0                 
-       ledControl.obj                     204    2                  12                
+       ledControl.obj                     203    2                  12                
        ert_main.obj                       142    14                 7                 
        DSP2833x_CpuTimers.obj             123    0                  24                
        c2833xSchedulerTimer0.obj          146    0                  0                 
@@ -389,7 +389,7 @@ MODULE SUMMARY
        MW_c28xGPIO.obj                    0      4                  1                 
        DSP2833x_usDelay.obj               4      0                  0                 
     +--+----------------------------------+------+------------------+--------------------+
-       Total:                             1921   295                2739              
+       Total:                             1920   295                2739              
                                                                                       
     C:/ProgramData/MATLAB/SupportPackages/3P.instrset/tic28xcodegentools.instrset/ti-cgt-c2000_20.2.1.LTS/lib/rts2800_fpu32.lib
        boot28.asm.obj                     86     0                  0                 
@@ -415,7 +415,7 @@ MODULE SUMMARY
                                                                                       
        Stack:                             0      0                  1024              
     +--+----------------------------------+------+------------------+--------------------+
-       Grand Total:                       2433   2015               3773              
+       Grand Total:                       2432   2015               3773              
 
 
 GLOBAL DATA SYMBOLS: SORTED BY DATA PAGE
@@ -555,12 +555,12 @@ page  address   name
 1     0000d000  .bss                                
 1     0000d000  .data                               
 abs   ffffffff  .text                               
-0     00008887  C$$EXIT                             
+0     00008886  C$$EXIT                             
 0     00008129  _ADCINT_ISR                         
 0     00380080  _ADC_cal                            
 1     00000b00  _AdcMirror                          
 1     00007100  _AdcRegs                            
-0     000085ea  _ConfigCpuTimer                     
+0     000085e9  _ConfigCpuTimer                     
 1     0000d102  _CpuTimer0                          
 1     00000c00  _CpuTimer0Regs                      
 1     0000d10a  _CpuTimer1                          
@@ -630,7 +630,7 @@ abs   ffffffff  .text
 0     00008205  _EQEP2_INT_ISR                      
 1     00006b00  _EQep1Regs                          
 1     00006b40  _EQep2Regs                          
-0     000088cf  _EnableInterrupts                   
+0     000088ce  _EnableInterrupts                   
 0     003ff0de  _FPUatan2HalfPITable                
 0     003ff0e2  _FPUatan2Table                      
 0     003ff268  _FPUatan2TableEnd                   
@@ -649,13 +649,13 @@ abs   ffffffff  .text
 0     0000807f  _ILLEGAL_ISR                        
 0     00008043  _INT13_ISR                          
 0     0000804d  _INT14_ISR                          
-0     000085a9  _InitCpuTimers                      
+0     000085a8  _InitCpuTimers                      
 0     000083c5  _InitPeripheralClocks               
-0     000088b0  _InitPieCtrl                        
-0     00008943  _InitPieVectTable                   
+0     000088af  _InitPieCtrl                        
+0     00008942  _InitPieVectTable                   
 0     00008374  _InitPll                            
 0     00008359  _InitSysCtrl                        
-0     0000867f  _InitXintf16Gpio                    
+0     0000867e  _InitXintf16Gpio                    
 1     0000d13c  _IsrOverrun                         
 0     0000833b  _LUF_ISR                            
 0     00008331  _LVF_ISR                            
@@ -689,7 +689,7 @@ abs   ffffffff  .text
 1     00007040  _SpiaRegs                           
 1     00007010  _SysCtrlRegs                        
 0     00008133  _TINT0_ISR                          
-0     000087db  _TINT0_isr                          
+0     000087da  _TINT0_isr                          
 0     000080e3  _USER10_ISR                         
 0     000080ed  _USER11_ISR                         
 0     000080f7  _USER12_ISR                         
@@ -730,32 +730,32 @@ abs   ffffffff  ___c_args__
 abs   ffffffff  ___etext__                          
 abs   ffffffff  ___pinit__                          
 abs   ffffffff  ___text__                           
-0     00008980  __args_main                         
+0     0000897f  __args_main                         
 1     0000d140  __lock                              
-0     000089ab  __nop                               
-0     000089a7  __register_lock                     
-0     000089a3  __register_unlock                   
+0     000089aa  __nop                               
+0     000089a6  __register_lock                     
+0     000089a2  __register_unlock                   
 1     00000400  __stack                             
-0     000089b6  __system_post_cinit                 
-0     000089b4  __system_pre_init                   
+0     000089b5  __system_post_cinit                 
+0     000089b3  __system_pre_init                   
 1     0000d142  __unlock                            
-0     00008887  _abort                              
-0     00008791  _atan                               
-0     000086f4  _atan2                              
-0     000088f4  _atan2f                             
-0     000088ed  _atanf                              
-0     000088fd  _c2000_flash_init                   
-0     0000869e  _c_int00                            
-0     00008743  _configureTimer0                    
-0     000088fe  _copy_in                            
-0     0000881f  _cos                                
-0     000088d8  _cosf                               
-0     00008770  _disableTimer0Interrupt             
-0     00008768  _enableTimer0Interrupt              
-0     00008889  _exit                               
-0     0000899a  _globalInterruptDisable             
-0     00008992  _globalInterruptEnable              
-0     00008624  _init_board                         
+0     00008886  _abort                              
+0     00008790  _atan                               
+0     000086f3  _atan2                              
+0     000088f3  _atan2f                             
+0     000088ec  _atanf                              
+0     000088fc  _c2000_flash_init                   
+0     0000869d  _c_int00                            
+0     00008742  _configureTimer0                    
+0     000088fd  _copy_in                            
+0     0000881e  _cos                                
+0     000088d7  _cosf                               
+0     0000876f  _disableTimer0Interrupt             
+0     00008767  _enableTimer0Interrupt              
+0     00008888  _exit                               
+0     00008999  _globalInterruptDisable             
+0     00008991  _globalInterruptEnable              
+0     00008623  _init_board                         
 1     0000d144  _isRateRunning                      
 1     0000d12a  _ledControl_B                       
 1     0000d12e  _ledControl_DW                      
@@ -765,18 +765,18 @@ abs   ffffffff  ___text__
 0     000084eb  _ledControl_initialize              
 0     00008469  _ledControl_step0                   
 0     000084ab  _ledControl_step1                   
-0     0000851a  _ledControl_terminate               
-0     00008560  _main                               
-0     00008963  _memcpy                             
+0     00008519  _ledControl_terminate               
+0     0000855f  _main                               
+0     00008962  _memcpy                             
 1     0000d146  _need2runFlags                      
-0     00008786  _restoreTimer0Interrupt             
+0     00008785  _restoreTimer0Interrupt             
 0     0000834f  _rsvd_ISR                           
-0     0000851b  _rt_OneStep                         
+0     0000851a  _rt_OneStep                         
 1     0000d13e  _runModel                           
-0     00008853  _sin                                
-0     000088df  _sinf                               
-0     00008922  _sqrt                               
-0     000088e6  _sqrtf                              
+0     00008852  _sin                                
+0     000088de  _sinf                               
+0     00008921  _sqrt                               
+0     000088e5  _sqrtf                              
 1     0000d13d  _stopRequested                      
 abs   ffffffff  binit                               
 0     00008000  cinit                               
@@ -884,46 +884,46 @@ page  address   name
 0     00008469  _ledControl_step0                   
 0     000084ab  _ledControl_step1                   
 0     000084eb  _ledControl_initialize              
-0     0000851a  _ledControl_terminate               
-0     0000851b  _rt_OneStep                         
-0     00008560  _main                               
-0     000085a9  _InitCpuTimers                      
-0     000085ea  _ConfigCpuTimer                     
-0     00008624  _init_board                         
-0     0000867f  _InitXintf16Gpio                    
-0     0000869e  _c_int00                            
-0     000086f4  _atan2                              
-0     00008743  _configureTimer0                    
-0     00008768  _enableTimer0Interrupt              
-0     00008770  _disableTimer0Interrupt             
-0     00008786  _restoreTimer0Interrupt             
-0     00008791  _atan                               
-0     000087db  _TINT0_isr                          
-0     0000881f  _cos                                
-0     00008853  _sin                                
-0     00008887  C$$EXIT                             
-0     00008887  _abort                              
-0     00008889  _exit                               
-0     000088b0  _InitPieCtrl                        
-0     000088cf  _EnableInterrupts                   
-0     000088d8  _cosf                               
-0     000088df  _sinf                               
-0     000088e6  _sqrtf                              
-0     000088ed  _atanf                              
-0     000088f4  _atan2f                             
-0     000088fd  _c2000_flash_init                   
-0     000088fe  _copy_in                            
-0     00008922  _sqrt                               
-0     00008943  _InitPieVectTable                   
-0     00008963  _memcpy                             
-0     00008980  __args_main                         
-0     00008992  _globalInterruptEnable              
-0     0000899a  _globalInterruptDisable             
-0     000089a3  __register_unlock                   
-0     000089a7  __register_lock                     
-0     000089ab  __nop                               
-0     000089b4  __system_pre_init                   
-0     000089b6  __system_post_cinit                 
+0     00008519  _ledControl_terminate               
+0     0000851a  _rt_OneStep                         
+0     0000855f  _main                               
+0     000085a8  _InitCpuTimers                      
+0     000085e9  _ConfigCpuTimer                     
+0     00008623  _init_board                         
+0     0000867e  _InitXintf16Gpio                    
+0     0000869d  _c_int00                            
+0     000086f3  _atan2                              
+0     00008742  _configureTimer0                    
+0     00008767  _enableTimer0Interrupt              
+0     0000876f  _disableTimer0Interrupt             
+0     00008785  _restoreTimer0Interrupt             
+0     00008790  _atan                               
+0     000087da  _TINT0_isr                          
+0     0000881e  _cos                                
+0     00008852  _sin                                
+0     00008886  C$$EXIT                             
+0     00008886  _abort                              
+0     00008888  _exit                               
+0     000088af  _InitPieCtrl                        
+0     000088ce  _EnableInterrupts                   
+0     000088d7  _cosf                               
+0     000088de  _sinf                               
+0     000088e5  _sqrtf                              
+0     000088ec  _atanf                              
+0     000088f3  _atan2f                             
+0     000088fc  _c2000_flash_init                   
+0     000088fd  _copy_in                            
+0     00008921  _sqrt                               
+0     00008942  _InitPieVectTable                   
+0     00008962  _memcpy                             
+0     0000897f  __args_main                         
+0     00008991  _globalInterruptEnable              
+0     00008999  _globalInterruptDisable             
+0     000089a2  __register_unlock                   
+0     000089a6  __register_lock                     
+0     000089aa  __nop                               
+0     000089b3  __system_pre_init                   
+0     000089b5  __system_post_cinit                 
 0     00380080  _ADC_cal                            
 0     003febdc  _FPUsinTable                        
 0     003fecdc  _FPUcosTable                        
