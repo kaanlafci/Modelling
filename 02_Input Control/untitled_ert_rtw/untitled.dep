@@ -1,0 +1,40 @@
+untitled.obj: C:/Users/win/Desktop/GitHub/Modelling/Modelling/02_Input\\ Control/untitled_ert_rtw/untitled.c
+untitled.obj: C:\Users\win\Desktop\GitHub\Modelling\Modelling\02_Input\\ Control\untitled_ert_rtw\untitled.h
+untitled.obj: C:/PROGRA~3/MATLAB/SUPPOR~1/3P778C~1.INS/TIC28X~1.INS/TI-CGT~1.LTS/include/stddef.h
+untitled.obj: C:/PROGRA~3/MATLAB/SUPPOR~1/3P778C~1.INS/TIC28X~1.INS/TI-CGT~1.LTS/include/_ti_config.h
+untitled.obj: C:/PROGRA~3/MATLAB/SUPPOR~1/3P778C~1.INS/TIC28X~1.INS/TI-CGT~1.LTS/include/linkage.h
+untitled.obj: C:/PROGRA~3/MATLAB/SUPPOR~1/3P778C~1.INS/TIC28X~1.INS/TI-CGT~1.LTS/include/string.h
+untitled.obj: C:/PROGRA~3/MATLAB/SUPPOR~1/3P778C~1.INS/TIC28X~1.INS/TI-CGT~1.LTS/include/sys/cdefs.h
+untitled.obj: C:\Users\win\Desktop\GitHub\Modelling\Modelling\02_Input\\ Control\untitled_ert_rtw\rtwtypes.h
+untitled.obj: C:/PROGRA~3/MATLAB/SUPPOR~1/R2021b/toolbox/shared/SUPPOR~1/tic2000/src/c2000BoardSupport.h
+untitled.obj: C:/PROGRA~3/MATLAB/SUPPOR~1/3P778C~1.INS/TIC28X~1.INS/TI-CGT~1.LTS/include/stdbool.h
+untitled.obj: C:/Users/win/Desktop/GitHub/MODELL~1/MODELL~1/02_INP~1/untitled_ert_rtw/rtwtypes.h
+untitled.obj: C:/PROGRA~3/MATLAB/SUPPOR~1/R2021b/toolbox/target/SUPPOR~1/tic2000/inc/DSP2833x_Device.h
+untitled.obj: C:\PROGRA~3\MATLAB\SUPPOR~1\R2021b\toolbox\target\SUPPOR~1\tic2000\inc\DSP2833x_Adc.h
+untitled.obj: C:\PROGRA~3\MATLAB\SUPPOR~1\R2021b\toolbox\target\SUPPOR~1\tic2000\inc\DSP2833x_DevEmu.h
+untitled.obj: C:\PROGRA~3\MATLAB\SUPPOR~1\R2021b\toolbox\target\SUPPOR~1\tic2000\inc\DSP2833x_CpuTimers.h
+untitled.obj: C:\PROGRA~3\MATLAB\SUPPOR~1\R2021b\toolbox\target\SUPPOR~1\tic2000\inc\DSP2833x_ECan.h
+untitled.obj: C:\PROGRA~3\MATLAB\SUPPOR~1\R2021b\toolbox\target\SUPPOR~1\tic2000\inc\DSP2833x_ECap.h
+untitled.obj: C:\PROGRA~3\MATLAB\SUPPOR~1\R2021b\toolbox\target\SUPPOR~1\tic2000\inc\DSP2833x_DMA.h
+untitled.obj: C:\PROGRA~3\MATLAB\SUPPOR~1\R2021b\toolbox\target\SUPPOR~1\tic2000\inc\DSP2833x_EPwm.h
+untitled.obj: C:\PROGRA~3\MATLAB\SUPPOR~1\R2021b\toolbox\target\SUPPOR~1\tic2000\inc\DSP2833x_EQep.h
+untitled.obj: C:\PROGRA~3\MATLAB\SUPPOR~1\R2021b\toolbox\target\SUPPOR~1\tic2000\inc\DSP2833x_Gpio.h
+untitled.obj: C:\PROGRA~3\MATLAB\SUPPOR~1\R2021b\toolbox\target\SUPPOR~1\tic2000\inc\DSP2833x_I2c.h
+untitled.obj: C:\PROGRA~3\MATLAB\SUPPOR~1\R2021b\toolbox\target\SUPPOR~1\tic2000\inc\DSP2833x_Mcbsp.h
+untitled.obj: C:\PROGRA~3\MATLAB\SUPPOR~1\R2021b\toolbox\target\SUPPOR~1\tic2000\inc\DSP2833x_PieCtrl.h
+untitled.obj: C:\PROGRA~3\MATLAB\SUPPOR~1\R2021b\toolbox\target\SUPPOR~1\tic2000\inc\DSP2833x_PieVect.h
+untitled.obj: C:\PROGRA~3\MATLAB\SUPPOR~1\R2021b\toolbox\target\SUPPOR~1\tic2000\inc\DSP2833x_Spi.h
+untitled.obj: C:\PROGRA~3\MATLAB\SUPPOR~1\R2021b\toolbox\target\SUPPOR~1\tic2000\inc\DSP2833x_Sci.h
+untitled.obj: C:\PROGRA~3\MATLAB\SUPPOR~1\R2021b\toolbox\target\SUPPOR~1\tic2000\inc\DSP2833x_SysCtrl.h
+untitled.obj: C:\PROGRA~3\MATLAB\SUPPOR~1\R2021b\toolbox\target\SUPPOR~1\tic2000\inc\DSP2833x_XIntrupt.h
+untitled.obj: C:\PROGRA~3\MATLAB\SUPPOR~1\R2021b\toolbox\target\SUPPOR~1\tic2000\inc\DSP2833x_Xintf.h
+untitled.obj: C:\Users\win\Desktop\GitHub\Modelling\Modelling\02_Input\\ Control\untitled_ert_rtw\untitled_types.h
+untitled.obj: C:\Users\win\Desktop\GitHub\Modelling\Modelling\02_Input\\ Control\untitled_ert_rtw\MW_target_hardware_resources.h
+untitled.obj: C:/PROGRA~3/MATLAB/SUPPOR~1/R2021b/toolbox/target/SUPPOR~1/tic2000/inc/DSP2833x_Examples.h
+untitled.obj: C:\PROGRA~3\MATLAB\SUPPOR~1\R2021b\toolbox\target\SUPPOR~1\tic2000\inc\DSP2833x_GlobalPrototypes.h
+untitled.obj: C:\PROGRA~3\MATLAB\SUPPOR~1\R2021b\toolbox\target\SUPPOR~1\tic2000\inc\DSP2833x_EPwm_defines.h
+untitled.obj: C:\PROGRA~3\MATLAB\SUPPOR~1\R2021b\toolbox\target\SUPPOR~1\tic2000\inc\DSP2833x_Dma_defines.h
+untitled.obj: C:\PROGRA~3\MATLAB\SUPPOR~1\R2021b\toolbox\target\SUPPOR~1\tic2000\inc\DSP2833x_I2c_defines.h
+untitled.obj: C:\PROGRA~3\MATLAB\SUPPOR~1\R2021b\toolbox\target\SUPPOR~1\tic2000\inc\DSP2833x_DefaultISR.h
+untitled.obj: C:/PROGRA~3/MATLAB/SUPPOR~1/R2021b/toolbox/shared/SUPPOR~1/tic2000/src/c2000SchedulerTimer.h
+untitled.obj: C:\Users\win\Desktop\GitHub\Modelling\Modelling\02_Input\\ Control\untitled_ert_rtw\untitled_private.h
