@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--  TI C2000 Examples   -->
+<!-- Copyright 2013-2017 The MathWorks, Inc. -->
+<demos>
+    <name>Embedded Coder Support Package for Texas Instruments C2000 Processors</name>
+    <type>simulink</type>
+    <icon>HelpIcon.DEMOS</icon>
+    <description isCdata="no">
+        <p>
+            Embedded Coder&#8482; supports C code-generation on Texas Instruments&#174; processors.
+            With this capability, you can deploy algorithms on TI C2000 hardware from Simulink&#174; models.
+        </p>
+    </description>
+    <website>
+        <a href="http://www.mathworks.com/products/embedded-coder">Product page at mathworks.com</a>
+    </website>
+    <demosection>
+        <label>Examples</label>
+        <demoitem>
+            <label>ADC-PWM Synchronization via ADC Interrupt</label>
+            <dependency>Embedded Coder</dependency>
+            <type>model</type>
+            <source>c280x_2833x_adcpwmasynctest_ert</source>
+            <file>html/c280x_2833x_adcpwmasynctest_ert.html</file>
+        </demoitem>
+        <demoitem>
+            <label>Using SPI to Read and Write Data on SPI EEPROM</label>
+            <dependency>Embedded Coder</dependency>
+            <type>model</type>
+            <source>c28x_spitest_ert</source>
+            <file>html/c28x_spitest_ert.html</file>
+        </demoitem>
+        <demoitem>
+            <label>Using the I2C Bus to Access Sensors</label>
+            <dependency>Embedded Coder</dependency>
+            <type>model</type>
+            <source>c28x_i2c_eeprom</source>
+            <file>html/c28x_i2c_eeprom.html</file>
+        </demoitem>
+        <demoitem>
+            <label>LIN-Based Control of PWM Duty Cycle</label>
+            <dependency>Embedded Coder</dependency>
+            <type>model</type>
+            <source>c28035lintest</source>
+            <file>html/c28035lintest.html</file>
+        </demoitem>
+        <demoitem>
+            <label>Asynchronous Scheduling</label>
+            <dependency>Embedded Coder</dependency>
+            <dependency>Fixed-Point Designer</dependency>
+            <type>model</type>
+            <source>c280x_2833x_asyncscheduling_ert</source>
+            <file>html/c280x_2833x_asyncscheduling_ert.html</file>
+        </demoitem>
+        <demoitem>
+            <label>CAN Calibration Protocol and External Mode</label>
+            <dependency>Embedded Coder</dependency>
+            <type>model</type>
+            <source>c28x_ccp_ert</source>
+            <file>html/c28x_ccp_ert.html</file>
+        </demoitem> 
+        <demoitem>
+            <label>Simulation of FOC Using PMSM Model</label>
+            <dependency>Embedded Coder</dependency>
+            <dependency>Simscape Electrical</dependency>
+            <dependency>Fixed-Point Designer</dependency>
+            <type>model</type>
+            <source>c2812pmsmsim</source>
+            <file>html/c2812pmsmsim.html</file>
+        </demoitem>
+        <demoitem>
+            <label>Permanent Magnet Synchronous Motor Field-Oriented Control</label>
+            <dependency>Embedded Coder</dependency>
+            <dependency>Fixed-Point Designer</dependency>
+            <type>model</type>
+            <source>c28069pmsmfoc_ert</source>
+            <file>html/c28069pmsmfoc_ert.html</file>
+        </demoitem>
+        <demoitem>
+            <label>Using the Control Law Accelerator (CLA)</label>
+            <dependency>Embedded Coder</dependency>
+            <dependency>Fixed-Point Designer</dependency>
+            <type>model</type>
+            <source>c28069blink_cla</source>
+            <file>html/c28069blink_cla.html</file>
+        </demoitem>
+        <demoitem>
+            <label>Schedule a Multi-Rate Controller for a Permanent Magnet Synchronous Machine</label>
+            <dependency>Embedded Coder</dependency>
+            <source>c28335_pmsmfoc_adcinterrupt</source>
+            <type>model</type>
+            <file>html/c28335_pmsmfoc.html</file>
+        </demoitem>
+        <demoitem>
+            <label>Code Verification and Validation with PIL</label>
+            <dependency>Embedded Coder</dependency>
+            <type>model</type>
+            <source>c2000_pil_block</source>
+            <file>html/c2000_pil_block.html</file>
+        </demoitem>        
+        <demoitem>
+            <label>Parameter Tuning and Signal Logging with Serial External Mode</label>
+            <dependency>Embedded Coder</dependency>
+            <type>model</type>
+            <source>c28x_serial_ext</source>
+            <file>html/c28x_serial_ext.html</file>
+        </demoitem>
+        <demoitem>
+            <label>Real-Time Code Execution Profiling</label>
+            <dependency>Embedded Coder</dependency>
+            <type>model</type>
+            <source>f28377S_RTProfiler</source>
+            <file>html/f28377S_RTProfiler.html</file>
+        </demoitem>
+        <demoitem>
+            <label>DC/DC Buck Converter</label>
+            <dependency>Simulink Coder</dependency>
+            <dependency>Embedded Coder</dependency>
+            <dependency>Instrument Control Toolbox</dependency>
+            <dependency>DSP System Toolbox</dependency>
+            <type>model</type>
+            <source>f28377S_DCDC_Buck</source>
+            <file>html/f28377S_DCDC_Buck.html</file>
+        </demoitem>
+        <demoitem>
+            <label>Inter-Processor Communication using IPC Blocks</label>
+            <dependency>Embedded Coder</dependency>
+            <type>model</type>
+            <source>c2837xd_ipc_cpu1_tx</source>
+            <file>html/c2837xd_ipc_cpu1_tx.html</file>
+        </demoitem>
+    </demosection>    
+</demos>
