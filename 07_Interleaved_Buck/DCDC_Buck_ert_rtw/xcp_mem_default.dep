@@ -1,0 +1,57 @@
+xcp_mem_default.obj: C:/Program\\ Files/MATLAB/R2021b/toolbox/coder/xcp/src/target/slave/platform/default/xcp_mem_default.c
+xcp_mem_default.obj: C:/PROGRA~1/MATLAB/R2021b/toolbox/coder/xcp/src/target/slave/common/xcp_common.h
+xcp_mem_default.obj: C:/PROGRA~3/MATLAB/SUPPOR~1/3P778C~1.INS/TIC28X~1.INS/TI-CGT~1.LTS/include/stddef.h
+xcp_mem_default.obj: C:/PROGRA~3/MATLAB/SUPPOR~1/3P778C~1.INS/TIC28X~1.INS/TI-CGT~1.LTS/include/_ti_config.h
+xcp_mem_default.obj: C:/PROGRA~3/MATLAB/SUPPOR~1/3P778C~1.INS/TIC28X~1.INS/TI-CGT~1.LTS/include/linkage.h
+xcp_mem_default.obj: C:/Users/win/Desktop/GitHub/Modelling/Modelling/07_Interleaved_Buck/DCDC_Buck_ert_rtw/rtwtypes.h
+xcp_mem_default.obj: C:/PROGRA~1/MATLAB/R2021b/toolbox/coder/xcp/src/target/slave/platform/include/xcp_platform.h
+xcp_mem_default.obj: C:/PROGRA~3/MATLAB/SUPPOR~1/R2021b/toolbox/shared/SUPPOR~1/tic2000/inc/xcp_platform_custom.h
+xcp_mem_default.obj: C:/Users/win/Desktop/GitHub/Modelling/Modelling/07_Interleaved_Buck/DCDC_Buck_ert_rtw/MW_target_hardware_resources.h
+xcp_mem_default.obj: C:/PROGRA~3/MATLAB/SUPPOR~1/R2021b/toolbox/shared/SUPPOR~1/tic2000/src/c2000BoardSupport.h
+xcp_mem_default.obj: C:/PROGRA~3/MATLAB/SUPPOR~1/3P778C~1.INS/TIC28X~1.INS/TI-CGT~1.LTS/include/stdbool.h
+xcp_mem_default.obj: C:/PROGRA~3/MATLAB/SUPPOR~1/R2021b/toolbox/target/SUPPOR~1/tic2000/inc/DSP2833x_Device.h
+xcp_mem_default.obj: C:\PROGRA~3\MATLAB\SUPPOR~1\R2021b\toolbox\target\SUPPOR~1\tic2000\inc\DSP2833x_Adc.h
+xcp_mem_default.obj: C:\PROGRA~3\MATLAB\SUPPOR~1\R2021b\toolbox\target\SUPPOR~1\tic2000\inc\DSP2833x_DevEmu.h
+xcp_mem_default.obj: C:\PROGRA~3\MATLAB\SUPPOR~1\R2021b\toolbox\target\SUPPOR~1\tic2000\inc\DSP2833x_CpuTimers.h
+xcp_mem_default.obj: C:\PROGRA~3\MATLAB\SUPPOR~1\R2021b\toolbox\target\SUPPOR~1\tic2000\inc\DSP2833x_ECan.h
+xcp_mem_default.obj: C:\PROGRA~3\MATLAB\SUPPOR~1\R2021b\toolbox\target\SUPPOR~1\tic2000\inc\DSP2833x_ECap.h
+xcp_mem_default.obj: C:\PROGRA~3\MATLAB\SUPPOR~1\R2021b\toolbox\target\SUPPOR~1\tic2000\inc\DSP2833x_DMA.h
+xcp_mem_default.obj: C:\PROGRA~3\MATLAB\SUPPOR~1\R2021b\toolbox\target\SUPPOR~1\tic2000\inc\DSP2833x_EPwm.h
+xcp_mem_default.obj: C:\PROGRA~3\MATLAB\SUPPOR~1\R2021b\toolbox\target\SUPPOR~1\tic2000\inc\DSP2833x_EQep.h
+xcp_mem_default.obj: C:\PROGRA~3\MATLAB\SUPPOR~1\R2021b\toolbox\target\SUPPOR~1\tic2000\inc\DSP2833x_Gpio.h
+xcp_mem_default.obj: C:\PROGRA~3\MATLAB\SUPPOR~1\R2021b\toolbox\target\SUPPOR~1\tic2000\inc\DSP2833x_I2c.h
+xcp_mem_default.obj: C:\PROGRA~3\MATLAB\SUPPOR~1\R2021b\toolbox\target\SUPPOR~1\tic2000\inc\DSP2833x_Mcbsp.h
+xcp_mem_default.obj: C:\PROGRA~3\MATLAB\SUPPOR~1\R2021b\toolbox\target\SUPPOR~1\tic2000\inc\DSP2833x_PieCtrl.h
+xcp_mem_default.obj: C:\PROGRA~3\MATLAB\SUPPOR~1\R2021b\toolbox\target\SUPPOR~1\tic2000\inc\DSP2833x_PieVect.h
+xcp_mem_default.obj: C:\PROGRA~3\MATLAB\SUPPOR~1\R2021b\toolbox\target\SUPPOR~1\tic2000\inc\DSP2833x_Spi.h
+xcp_mem_default.obj: C:\PROGRA~3\MATLAB\SUPPOR~1\R2021b\toolbox\target\SUPPOR~1\tic2000\inc\DSP2833x_Sci.h
+xcp_mem_default.obj: C:\PROGRA~3\MATLAB\SUPPOR~1\R2021b\toolbox\target\SUPPOR~1\tic2000\inc\DSP2833x_SysCtrl.h
+xcp_mem_default.obj: C:\PROGRA~3\MATLAB\SUPPOR~1\R2021b\toolbox\target\SUPPOR~1\tic2000\inc\DSP2833x_XIntrupt.h
+xcp_mem_default.obj: C:\PROGRA~3\MATLAB\SUPPOR~1\R2021b\toolbox\target\SUPPOR~1\tic2000\inc\DSP2833x_Xintf.h
+xcp_mem_default.obj: C:/PROGRA~3/MATLAB/SUPPOR~1/R2021b/toolbox/target/SUPPOR~1/tic2000/inc/DSP2833x_Examples.h
+xcp_mem_default.obj: C:\PROGRA~3\MATLAB\SUPPOR~1\R2021b\toolbox\target\SUPPOR~1\tic2000\inc\DSP2833x_GlobalPrototypes.h
+xcp_mem_default.obj: C:\PROGRA~3\MATLAB\SUPPOR~1\R2021b\toolbox\target\SUPPOR~1\tic2000\inc\DSP2833x_EPwm_defines.h
+xcp_mem_default.obj: C:\PROGRA~3\MATLAB\SUPPOR~1\R2021b\toolbox\target\SUPPOR~1\tic2000\inc\DSP2833x_Dma_defines.h
+xcp_mem_default.obj: C:\PROGRA~3\MATLAB\SUPPOR~1\R2021b\toolbox\target\SUPPOR~1\tic2000\inc\DSP2833x_I2c_defines.h
+xcp_mem_default.obj: C:\PROGRA~3\MATLAB\SUPPOR~1\R2021b\toolbox\target\SUPPOR~1\tic2000\inc\DSP2833x_DefaultISR.h
+xcp_mem_default.obj: C:/PROGRA~3/MATLAB/SUPPOR~1/R2021b/toolbox/shared/SUPPOR~1/tic2000/src/c2000SchedulerTimer.h
+xcp_mem_default.obj: C:/PROGRA~1/MATLAB/R2021b/toolbox/coder/xcp/src/target/slave/protocol/src/xcp_cfg.h
+xcp_mem_default.obj: C:/PROGRA~3/MATLAB/SUPPOR~1/3P778C~1.INS/TIC28X~1.INS/TI-CGT~1.LTS/include/limits.h
+xcp_mem_default.obj: C:/PROGRA~3/MATLAB/SUPPOR~1/3P778C~1.INS/TIC28X~1.INS/TI-CGT~1.LTS/include/stdio.h
+xcp_mem_default.obj: C:/PROGRA~3/MATLAB/SUPPOR~1/3P778C~1.INS/TIC28X~1.INS/TI-CGT~1.LTS/include/stdarg.h
+xcp_mem_default.obj: C:/PROGRA~3/MATLAB/SUPPOR~1/3P778C~1.INS/TIC28X~1.INS/TI-CGT~1.LTS/include/sys/_types.h
+xcp_mem_default.obj: C:/PROGRA~3/MATLAB/SUPPOR~1/3P778C~1.INS/TIC28X~1.INS/TI-CGT~1.LTS/include/sys/cdefs.h
+xcp_mem_default.obj: C:/PROGRA~3/MATLAB/SUPPOR~1/3P778C~1.INS/TIC28X~1.INS/TI-CGT~1.LTS/include/machine/_types.h
+xcp_mem_default.obj: C:/PROGRA~3/MATLAB/SUPPOR~1/3P778C~1.INS/TIC28X~1.INS/TI-CGT~1.LTS/include/string.h
+xcp_mem_default.obj: C:/PROGRA~3/MATLAB/SUPPOR~1/3P778C~1.INS/TIC28X~1.INS/TI-CGT~1.LTS/include/stdint.h
+xcp_mem_default.obj: C:/PROGRA~3/MATLAB/SUPPOR~1/3P778C~1.INS/TIC28X~1.INS/TI-CGT~1.LTS/include/_stdint40.h
+xcp_mem_default.obj: C:/PROGRA~3/MATLAB/SUPPOR~1/3P778C~1.INS/TIC28X~1.INS/TI-CGT~1.LTS/include/sys/stdint.h
+xcp_mem_default.obj: C:/PROGRA~3/MATLAB/SUPPOR~1/3P778C~1.INS/TIC28X~1.INS/TI-CGT~1.LTS/include/machine/_stdint.h
+xcp_mem_default.obj: C:/PROGRA~3/MATLAB/SUPPOR~1/3P778C~1.INS/TIC28X~1.INS/TI-CGT~1.LTS/include/sys/_stdint.h
+xcp_mem_default.obj: C:/PROGRA~3/MATLAB/SUPPOR~1/R2021b/toolbox/shared/SUPPOR~1/tic2000/src/c2000SchedulerTimer.h
+xcp_mem_default.obj: C:\Program\\ Files\MATLAB\R2021b\toolbox\coder\xcp\src\target\slave\platform\default\xcp_mem.h
+xcp_mem_default.obj: C:/PROGRA~1/MATLAB/R2021b/toolbox/coder/xcp/src/target/slave/include/xcp.h
+xcp_mem_default.obj: C:/PROGRA~1/MATLAB/R2021b/toolbox/coder/xcp/src/target/slave/protocol/include/xcp_internal.h
+xcp_mem_default.obj: C:\Program\\ Files\MATLAB\R2021b\toolbox\coder\xcp\src\target\slave\platform\default\xcp_mem_default.h
+xcp_mem_default.obj: C:\Program\\ Files\MATLAB\R2021b\toolbox\coder\xcp\src\target\slave\platform\default\xcp_mem_config.h
+xcp_mem_default.obj: C:\Program\\ Files\MATLAB\R2021b\toolbox\coder\xcp\src\target\slave\platform\default\xcp_mem_config_helper.h

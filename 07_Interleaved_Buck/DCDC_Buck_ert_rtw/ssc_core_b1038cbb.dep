@@ -1,0 +1,20 @@
+ssc_core_b1038cbb.obj: C:/Program\\ Files/MATLAB/R2021b/toolbox/physmod/simscape/engine/core/c/win64/ssc_core_b1038cbb.c
+ssc_core_b1038cbb.obj: C:/PROGRA~1/MATLAB/R2021b/toolbox/physmod/common/foundation/core/c/win64/pm_std.h
+ssc_core_b1038cbb.obj: C:/Users/win/Desktop/GitHub/Modelling/Modelling/07_Interleaved_Buck/DCDC_Buck_ert_rtw/rtwtypes.h
+ssc_core_b1038cbb.obj: C:/PROGRA~3/MATLAB/SUPPOR~1/3P778C~1.INS/TIC28X~1.INS/TI-CGT~1.LTS/include/math.h
+ssc_core_b1038cbb.obj: C:/PROGRA~3/MATLAB/SUPPOR~1/3P778C~1.INS/TIC28X~1.INS/TI-CGT~1.LTS/include/_ti_config.h
+ssc_core_b1038cbb.obj: C:/PROGRA~3/MATLAB/SUPPOR~1/3P778C~1.INS/TIC28X~1.INS/TI-CGT~1.LTS/include/linkage.h
+ssc_core_b1038cbb.obj: C:/PROGRA~3/MATLAB/SUPPOR~1/3P778C~1.INS/TIC28X~1.INS/TI-CGT~1.LTS/include/_defs.h
+ssc_core_b1038cbb.obj: C:/PROGRA~3/MATLAB/SUPPOR~1/3P778C~1.INS/TIC28X~1.INS/TI-CGT~1.LTS/include/sys/_types.h
+ssc_core_b1038cbb.obj: C:/PROGRA~3/MATLAB/SUPPOR~1/3P778C~1.INS/TIC28X~1.INS/TI-CGT~1.LTS/include/sys/cdefs.h
+ssc_core_b1038cbb.obj: C:/PROGRA~3/MATLAB/SUPPOR~1/3P778C~1.INS/TIC28X~1.INS/TI-CGT~1.LTS/include/machine/_types.h
+ssc_core_b1038cbb.obj: C:/PROGRA~3/MATLAB/SUPPOR~1/3P778C~1.INS/TIC28X~1.INS/TI-CGT~1.LTS/include/machine/_limits.h
+ssc_core_b1038cbb.obj: C:/PROGRA~1/MATLAB/R2021b/toolbox/physmod/common/foundation/core/c/win64/pm_inline.h
+ssc_core_b1038cbb.obj: C:/PROGRA~1/MATLAB/R2021b/toolbox/physmod/common/foundation/core/c/win64/pm_types.h
+ssc_core_b1038cbb.obj: C:/PROGRA~3/MATLAB/SUPPOR~1/3P778C~1.INS/TIC28X~1.INS/TI-CGT~1.LTS/include/stddef.h
+ssc_core_b1038cbb.obj: C:/PROGRA~3/MATLAB/SUPPOR~1/3P778C~1.INS/TIC28X~1.INS/TI-CGT~1.LTS/include/stdarg.h
+ssc_core_b1038cbb.obj: C:/PROGRA~3/MATLAB/SUPPOR~1/3P778C~1.INS/TIC28X~1.INS/TI-CGT~1.LTS/include/stdlib.h
+ssc_core_b1038cbb.obj: C:/PROGRA~3/MATLAB/SUPPOR~1/3P778C~1.INS/TIC28X~1.INS/TI-CGT~1.LTS/include/stdlibf.h
+ssc_core_b1038cbb.obj: C:/PROGRA~3/MATLAB/SUPPOR~1/3P778C~1.INS/TIC28X~1.INS/TI-CGT~1.LTS/include/string.h
+ssc_core_b1038cbb.obj: C:/PROGRA~1/MATLAB/R2021b/toolbox/physmod/network_engine/c/win64/ne_std.h
+ssc_core_b1038cbb.obj: C:/PROGRA~1/MATLAB/R2021b/toolbox/physmod/common/math/core/c/win64/mc_std.h
