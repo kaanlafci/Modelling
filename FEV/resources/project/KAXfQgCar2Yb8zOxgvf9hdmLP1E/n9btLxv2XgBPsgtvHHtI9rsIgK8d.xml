@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Info Type="StartUp" Visible="0" Icon="" File="03_Design/DeratingControl.slx" Name="DeratingControl">
+    <Extension Value="cc30a3f9-9782-4504-99a8-03e3bb1a5873" Name="StartUpPrev" />
+</Info>

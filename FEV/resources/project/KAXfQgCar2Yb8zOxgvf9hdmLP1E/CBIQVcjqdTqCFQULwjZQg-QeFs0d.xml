@@ -1,4 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <Info Type="StartUp" Visible="0" Icon="" File="navigation/Demo.mlx" Name="Demo">
-    <Extension Value="HEAD" Name="StartUpPrev" />
+    <Extension Value="7bf16bf8-0822-4290-b057-1ca95dbf9494" Name="StartUpPrev" />
 </Info>
